@@ -4,6 +4,14 @@
     text-align: center;
     font-size: xx-large;
 }
+.image1 {
+    border-color: #DD1C20;
+    border-right-style: dashed;
+    background-image: url(../image/coffee2.jpg);
+    background-position: 50% 0%;
+    background-size: 0mm auto;
+}
+
 .main1 {
     color: #ED171B;
     font-size: xx-large;
